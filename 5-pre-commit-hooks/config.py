@@ -1,0 +1,3 @@
+
+USER_NAME = "kris"
+SUPER_SECRET_PASSWORD = "D@t@m1nd3d"
