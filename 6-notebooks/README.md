@@ -22,6 +22,7 @@ The goal of this exercise is to make sure that the notebook can be checked in in
 
 Remember: notebooks can contain both code and output, and output can contain sensitive information. Committing the code, and making sure that it can be run by others, is the goal of this exercise.
 
-To complete the exercise, you need to:
+To complete the exercise, you should:
 - Figure out the dependencies of the notebook, and make sure that others can run it as well.
-- Ensure that only the code gets committed to Git, not the plot. Hint: there is a pre-commit hook that can help you with that. 
+- Ensure that only the code gets committed to Git, not the plot. Hint: there is a pre-commit hook that can help you with that.
+- (optional) configure your IDE so that it automatically formats notebook cells on save.  
